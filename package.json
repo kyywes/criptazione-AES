@@ -1,0 +1,17 @@
+{
+  "name": "encryptorapp-wizard",
+  "version": "1.0.0",
+  "description": "Wizard di installazione per EncryptorApp",
+  "type": "module",
+  "main": "wizard.js",
+  "scripts": {
+    "start-wizard": "node wizard.js"
+  },
+  "author": "Tuo Nome",
+  "license": "MIT",
+  "dependencies": {
+    "node-wizard": "^1.0.0",
+    "fs-extra": "^11.1.1"
+  }
+}
+
